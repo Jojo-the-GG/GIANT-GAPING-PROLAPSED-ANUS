@@ -1,7 +1,7 @@
 ### Getting Started
 
 ![TRAA Logo](/images/traa_logo-MASTER.jpg)
-Format: ![TRAA Logo](https://youtu.be/xTt-HTu3-gs)
+![TRAA Logo](https://youtu.be/xTt-HTu3-gs)
 
 ### Dependencies
 
