@@ -1,7 +1,7 @@
 ### Getting Started
 
-![GitHub Logo](/images/traa_logo-MASTER.jpg)
-Format: ![Alt Text](https://youtu.be/xTt-HTu3-gs)
+![TRAA Logo](/images/traa_logo-MASTER.jpg)
+Format: ![TRAA Logo](https://youtu.be/xTt-HTu3-gs)
 
 ### Dependencies
 
