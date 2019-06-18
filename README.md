@@ -1,17 +1,12 @@
-# Project Title
-
-Simple overview of use/purpose.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
+### Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Uses CSS3 and HTML5 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see caniuse for reference).
+http://caniuse.com - automatic!
+[GitHub](http://caniuse.com)
+Also using the latest ES6/next, youshould probably think about including Babel for transpilation for an NPM script).
+
 
 ### Installing
 
