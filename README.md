@@ -1,5 +1,8 @@
 ### Getting Started
 
+![GitHub Logo](/images/traa_logo-MASTER.jpg)
+Format: ![Alt Text](https://youtu.be/xTt-HTu3-gs)
+
 ### Dependencies
 
 Uses CSS3 and HTML5 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see caniuse [Caniuse](http://caniuse.com) for reference).
