@@ -2,9 +2,7 @@
 
 ### Dependencies
 
-Uses CSS3 and HTML5 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see caniuse for reference).
-http://caniuse.com - automatic!
-[GitHub](http://caniuse.com)
+Uses CSS3 and HTML5 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see caniuse [Caniuse](http://caniuse.com) for reference).
 Also using the latest ES6/next, youshould probably think about including Babel for transpilation for an NPM script).
 
 
